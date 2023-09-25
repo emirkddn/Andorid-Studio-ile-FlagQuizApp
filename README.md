@@ -1,6 +1,7 @@
 # Andorid-Studio-ile-FlagQuizApp
 Kasım Adalan hocamın Android Mobil Uygulama Geliştirme Eğitimi kursunda yaptığım Bayrak Quiz Oyunu
 
-<img width="349" alt="GirisEkrani" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/60554cd0-4699-44ca-8644-0d71036d3d2f">
-<img width="349" alt="QuizEkrani" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/533dd1db-3e67-4a54-96e4-2fd056215846">
-<img width="349" alt="SonucEkrani" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/140d51ff-e423-49cb-8ade-f6517ccf273d">
+<img width="252" alt="App" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/8fdff8b5-bfd6-47d1-9182-01e8d900c089">
+<img width="454" alt="HomePage" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/ae64e994-eb7c-4f83-b55d-57a7d681356d">
+<img width="454" alt="GameScreen" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/913965ce-32cb-414c-8d1a-86d432342e2e">
+<img width="454" alt="ResultScreen" src="https://github.com/emirkddn/Andorid-Studio-ile-FlagQuizApp/assets/118385373/a7a37637-d6d5-4871-9035-4397e8c17035">
